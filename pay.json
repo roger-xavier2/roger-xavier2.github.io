@@ -1,6 +1,7 @@
 {
     "pay_amount": "30",
     "pay_info": "测试内容",
-    "pay_host": "pay.flexbooru.art"
+    "pay_host": "pay.flexbooru.art",
+    "pay_account": "lsfstarsky@gmail.com"
 
 }

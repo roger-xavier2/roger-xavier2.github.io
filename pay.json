@@ -1,6 +1,6 @@
 {
-    "pay_amount": "30",
-    "pay_info": "测试内容",
+    "pay_amount": "6.6",
+    "pay_info": "点击“购买”后将会复制支付宝帐号（lsfstarsky@gmail.com）至剪贴板并尝试打开支付宝，你需自行完成需转帐 6.6 元（人民币）。 在支付宝“我的”-“账单”找到“订单号”，长按复制粘贴到“兑换码”中并提交。 微信端可以使用爱发电购买总换码,地址 https://afdian.net/a/pixiv-flexbooru 订单号不限制使用次数，但是在一台设备使用时其它设备的激活状态将会失效。",
     "pay_host": "pay.flexbooru.art",
     "pay_account": "lsfstarsky@gmail.com"
 
